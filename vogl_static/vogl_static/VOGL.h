@@ -1,0 +1,11 @@
+#pragma once
+#include"vogl/RenderWindow.h"
+#include"vogl/Rectangle.h"
+#include"vogl/Texture.h"
+#include"vogl/KeyboardEvent.h"
+#include"vogl/Mouse.h"
+#include"vogl/Sprite.h"
+#include"vogl/Clock.h"
+#include"vogl/Font.h"
+#include"vogl/Text.h"
+#include"vogl/ShaderShape.h"

@@ -1,0 +1,930 @@
+﻿  Clock.cpp
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Clock.cpp(10,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Clock.cpp(15,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  DrawObject.cpp
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(46,89): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(46,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(48,66): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(48,63): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(54,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(54,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(56,60): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(56,57): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(64,86): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(64,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(66,72): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(66,69): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(72,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(72,75): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(74,70): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(74,67): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Font.cpp
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Font.cpp(15,39): warning C4244: аргумент: преобразование "T" в "FT_UInt", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Font.cpp(15,31): warning C4244: аргумент: преобразование "T" в "FT_UInt", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  KeyboardEvent.cpp
+  Mouse.cpp
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Mouse.cpp(11,26): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Mouse.cpp(11,23): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Mouse.cpp(16,35): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Mouse.cpp(16,26): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Rectangle.cpp
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(46,89): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(46,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(48,66): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(48,63): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(54,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(54,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(56,60): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(56,57): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(64,86): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(64,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(66,72): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(66,69): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(72,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(72,75): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(74,70): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(74,67): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(16,80): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(16,72): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(18,69): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(18,66): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  RenderWindow.cpp
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(46,89): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(46,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(48,66): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(48,63): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(54,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(54,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(56,60): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(56,57): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(64,86): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(64,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(66,72): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(66,69): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(72,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(72,75): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(74,70): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(74,67): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(16,80): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(16,72): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(18,69): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(18,66): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RenderWindow.cpp(20,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RenderWindow.cpp(97,58): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RenderWindow.cpp(97,50): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RenderWindow.cpp(105,58): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RenderWindow.cpp(105,50): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Shader.cpp
+  ShaderShape.cpp
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(46,89): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(46,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(48,66): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(48,63): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(54,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(54,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(56,60): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(56,57): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(64,86): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(64,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(66,72): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(66,69): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(72,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(72,75): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(74,70): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(74,67): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(16,80): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(16,72): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(18,69): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(18,66): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  ShaderTool.cpp
+  Sprite.cpp
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(46,89): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(46,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(48,66): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(48,63): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(54,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(54,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(56,60): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(56,57): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(64,86): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(64,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(66,72): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(66,69): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(72,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(72,75): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(74,70): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(74,67): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(16,80): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(16,72): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(18,69): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(18,66): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Sprite.cpp(19,58): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Sprite.cpp(19,42): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Text.cpp
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(46,89): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(46,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(48,66): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(48,63): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(54,83): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(54,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(56,60): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(56,57): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(64,86): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(64,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(66,72): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(66,69): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(72,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(72,75): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(74,70): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\DrawObject.h(74,67): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(16,80): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(16,72): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(18,69): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\RectangleType.h(18,66): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Text.cpp(25,39): warning C4244: аргумент: преобразование "T" в "FT_UInt", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Text.cpp(25,31): warning C4244: аргумент: преобразование "T" в "FT_UInt", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\Text.cpp(73,41): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+  Texture.cpp
+  View.cpp
+C:\Users\79219\my_project\vogl\vogl_static\vogl_static\vogl\View.cpp(62,6): warning C4804: <: небезопасное использование типа "bool" в операции
+  Создание кода...
+User32.lib(USER32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR уже определен в opengl32.lib(OPENGL32.dll); второе определение пропущено
+Gdi32.lib(GDI32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR уже определен в opengl32.lib(OPENGL32.dll); второе определение пропущено
+Shell32.lib(SHELL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR уже определен в opengl32.lib(OPENGL32.dll); второе определение пропущено
+  vogl_static.vcxproj -> C:\Users\79219\my_project\vogl\vogl_static\x64\Debug\vogl_static.lib
