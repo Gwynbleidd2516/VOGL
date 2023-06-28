@@ -8,7 +8,7 @@
 
 namespace vogl
 {
-	class API Text:public RectangleType
+	EXTERN class API Text :public RectangleType
 	{
 	private:
 		GLfloat vertices[16] =

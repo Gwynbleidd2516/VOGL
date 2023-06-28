@@ -7,7 +7,7 @@
 
 namespace vogl
 {
-	class View
+	EXTERN class API View
 	{
 	private:
 		Vector4<float> view;

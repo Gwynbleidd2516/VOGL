@@ -1,0 +1,16 @@
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\dllmain.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\dllmain.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\Clock.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\Clock.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\DrawObject.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\DrawObject.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\Font.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\Font.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\KeyboardEvent.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\KeyboardEvent.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\Mouse.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\Mouse.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\Rectangle.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\Rectangle.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\RenderWindow.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\RenderWindow.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\Shader.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\Shader.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\ShaderShape.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\ShaderShape.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\ShaderTool.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\ShaderTool.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\Sprite.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\Sprite.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\Text.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\Text.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\Texture.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\Texture.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\Tools.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\Tools.obj
+C:\Users\79219\VOGL\vogl_dll\vogl_dll\vogl\View.cpp;C:\Users\79219\VOGL\vogl_dll\vogl_dll\x64\Release\View.obj

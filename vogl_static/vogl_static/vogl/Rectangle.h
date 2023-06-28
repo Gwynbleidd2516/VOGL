@@ -7,7 +7,7 @@
 
 namespace vogl
 {
-	class Rectangle :public RectangleType
+	EXTERN class API Rectangle :public RectangleType
 	{
 	protected:
 		GLfloat vertices[8] =

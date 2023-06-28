@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\79219\my_project\vogl\vogl_dll\x64\Debug\vogl_dll.dll</FullPath>
+      <FullPath>C:\Users\79219\VOGL\vogl_dll\x64\Debug\vogl_dll.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

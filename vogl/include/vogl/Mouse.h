@@ -7,7 +7,7 @@
 
 namespace vogl
 {
-	class API Mouse
+	EXTERN class API Mouse
 	{
 		friend class RenderWindow;
 	private:

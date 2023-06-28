@@ -1,10 +1,11 @@
 #pragma once
 
 #include"Tools.h"
+#include"Shader.h"
 
 namespace vogl
 {
-	class DrawObject
+	EXTERN class API DrawObject
 	{
 		friend class RenderWindow;
 	protected:

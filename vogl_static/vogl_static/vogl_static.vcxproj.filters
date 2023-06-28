@@ -21,9 +21,6 @@
     <ClInclude Include="vogl\Clock.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="vogl\domain.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
     <ClInclude Include="vogl\DrawObject.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
@@ -83,9 +80,6 @@
     <ClCompile Include="vogl\Clock.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="vogl\domain.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="vogl\DrawObject.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
@@ -126,6 +120,9 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="vogl_static.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="vogl\Tools.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

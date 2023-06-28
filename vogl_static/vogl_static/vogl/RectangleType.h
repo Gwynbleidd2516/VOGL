@@ -4,7 +4,7 @@
 
 namespace vogl
 {
-	class RectangleType :public DrawObject
+	EXTERN class API RectangleType :public DrawObject
 	{
 	protected:
 		Vector2<float> size;

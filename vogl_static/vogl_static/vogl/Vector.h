@@ -1,12 +1,29 @@
 #pragma once
 
+#ifndef VOGL_STATIC
+
+#ifdef EXPORT
+#define API __declspec(dllexport)
+#else
+#define API __declspec(dllimport)
+#endif // EXPORT
+
+#define EXTERN extern "C"
+
+#else
+
+#define API
+#define EXTERN
+
+#endif // !VOGL_STATIC
+
 #ifndef VECTOR
 #define VECTOR
 
 namespace vogl 
 {
 	template<typename T>
-	struct Vector2
+	struct API Vector2
 	{
 		T x;
 		T y;
@@ -110,7 +127,7 @@ namespace vogl
 	};
 
 	template<typename T>
-	struct Vector3
+	struct API Vector3
 	{
 		T x;
 		T y;
@@ -227,7 +244,7 @@ namespace vogl
 	};
 
 	template<typename T>
-	struct Vector4
+	struct API Vector4
 	{
 		T x;
 		T y;

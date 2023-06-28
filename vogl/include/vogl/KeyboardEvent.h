@@ -9,7 +9,7 @@
 namespace vogl
 {
 
-	class API KeyboardEvent
+	EXTERN class API KeyboardEvent
 	{
 		friend class RenderWindow;
 	private:

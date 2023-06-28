@@ -10,7 +10,7 @@
 
 namespace vogl
 {
-	class API ShaderTool
+	EXTERN class API ShaderTool
 	{
 	protected:
 		unsigned int id;

@@ -3,14 +3,14 @@
 #ifndef SHADERTOOL
 #define SHADERTOOL
 
-#include"domain.h"
+#include"Tools.h"
 #include<fstream>
 #include<string>
 #include<sstream>
 
 namespace vogl
 {
-	class ShaderTool
+	EXTERN class API ShaderTool
 	{
 	protected:
 		unsigned int id;

@@ -10,6 +10,6 @@
 #define GLCAll(x) GLClearError();\
     x;\
     ASSERT(GLLogCall(#x, __FILE__, __LINE__))
-API void GLClearError();
+EXTERN API void GLClearError();
 
-API bool GLLogCall(const char* function, const char* file, int line);
+EXTERN API bool GLLogCall(const char* function, const char* file, int line);

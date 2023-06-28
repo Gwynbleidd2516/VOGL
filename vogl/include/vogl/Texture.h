@@ -8,7 +8,7 @@
 
 namespace vogl {
 
-	class API Texture
+	EXTERN class API Texture
 	{
 		friend class Sprite;
 	private:

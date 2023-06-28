@@ -12,7 +12,7 @@
 
 namespace vogl
 {
-	struct API WindowSettings
+	EXTERN struct API WindowSettings
 	{
 	private:
 		std::vector<int> settings;
@@ -40,7 +40,7 @@ namespace vogl
 		CloseButton
 	};
 
-	class RenderWindow
+	EXTERN class API RenderWindow
 	{
 	private:
 		Style style;

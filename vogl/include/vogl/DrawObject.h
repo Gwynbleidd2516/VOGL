@@ -5,7 +5,7 @@
 
 namespace vogl
 {
-	class API DrawObject
+	EXTERN class API DrawObject
 	{
 		friend class RenderWindow;
 	protected:

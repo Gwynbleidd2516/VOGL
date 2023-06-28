@@ -108,7 +108,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>GLEW_STATIC;STB_IMAGE_IMPLEMENTATION</PreprocessorDefinitions>
+      <PreprocessorDefinitions>VOGL_STATIC;GLEW_STATIC;STB_IMAGE_IMPLEMENTATION</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
@@ -130,7 +130,7 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>GLEW_STATIC;STB_IMAGE_IMPLEMENTATION</PreprocessorDefinitions>
+      <PreprocessorDefinitions>VOGL_STATIC;GLEW_STATIC;STB_IMAGE_IMPLEMENTATION</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
@@ -151,7 +151,6 @@
   <ItemGroup>
     <ClInclude Include="framework.h" />
     <ClInclude Include="vogl\Clock.h" />
-    <ClInclude Include="vogl\domain.h" />
     <ClInclude Include="vogl\DrawObject.h" />
     <ClInclude Include="vogl\Font.h" />
     <ClInclude Include="vogl\KeyboardEvent.h" />
@@ -173,7 +172,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="vogl\Clock.cpp" />
-    <ClCompile Include="vogl\domain.cpp" />
     <ClCompile Include="vogl\DrawObject.cpp" />
     <ClCompile Include="vogl\Font.cpp" />
     <ClCompile Include="vogl\KeyboardEvent.cpp" />
@@ -186,6 +184,7 @@
     <ClCompile Include="vogl\Sprite.cpp" />
     <ClCompile Include="vogl\Text.cpp" />
     <ClCompile Include="vogl\Texture.cpp" />
+    <ClCompile Include="vogl\Tools.cpp" />
     <ClCompile Include="vogl\View.cpp" />
     <ClCompile Include="vogl_static.cpp" />
   </ItemGroup>

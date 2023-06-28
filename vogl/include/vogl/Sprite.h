@@ -8,7 +8,7 @@
 
 namespace vogl
 {
-	class API Sprite : public RectangleType
+	EXTERN class API Sprite : public RectangleType
 	{
 		friend class RenderWindow;
 	private:

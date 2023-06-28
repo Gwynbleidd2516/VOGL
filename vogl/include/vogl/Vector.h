@@ -8,9 +8,12 @@
 #define API __declspec(dllimport)
 #endif // EXPORT
 
+#define EXTERN extern "C"
+
 #else
 
 #define API
+#define EXTERN
 
 #endif // !VOGL_STATIC
 

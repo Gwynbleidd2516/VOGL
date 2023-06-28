@@ -10,7 +10,7 @@
 
 namespace vogl
 {
-	class Font
+	EXTERN class API Font
 	{
 		friend class Text;
 	private:

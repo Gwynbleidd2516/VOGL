@@ -7,7 +7,7 @@
 
 namespace vogl
 {
-	class API Shader :public ShaderTool
+	EXTERN class API Shader :public ShaderTool
 	{
 	public:
 		void bind() const;

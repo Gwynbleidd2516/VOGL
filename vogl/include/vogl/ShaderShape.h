@@ -8,7 +8,7 @@
 
 namespace vogl
 {
-	class API ShaderShape :public ShaderTool, public RectangleType
+	EXTERN class API ShaderShape :public ShaderTool, public RectangleType
 	{
 		GLfloat vertices[8] =
 		{
